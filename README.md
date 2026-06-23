@@ -42,17 +42,6 @@ This repository contains my hands-on learning journey in Power BI, including pra
 
 ---
 
-## Sample Projects
-
-* Sales Performance Dashboard
-* HR Analytics Dashboard
-* Financial Analysis Dashboard
-* Customer Insights Dashboard
-* Inventory Management Dashboard
-* KPI Tracking Dashboard
-
----
-
 ## Future Enhancements
 
 * Advanced DAX Projects
