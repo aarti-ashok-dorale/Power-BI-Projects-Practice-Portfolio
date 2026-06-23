@@ -43,9 +43,9 @@ This repository contains my hands-on learning journey in Power BI, including pra
 ---
 
 ## Sample Projects
-1.Healthcare Performance Monitoring Report - 2025
 
-2.HR Analytics Dashboard
+- 🏥 Healthcare Performance Monitoring Report (2025)
+- 👥 HR Analytics Dashboard
 
 ## Future Enhancements
 
